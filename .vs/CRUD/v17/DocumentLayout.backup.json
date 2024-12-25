@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Dot Net\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|d:\\projects\\dot net\\crud\\crud\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|d:\\projects\\dot net\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|d:\\projects\\dot net\\crud\\crud\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|solutionrelative:crud\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|d:\\projects\\dot net\\crud\\crud\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|solutionrelative:crud\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|d:\\projects\\dot net\\crud\\crud\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|solutionrelative:crud\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|d:\\projects\\dot net\\crud\\crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|d:\\projects\\dot net\\crud\\crud\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B22B141D-15EA-48DC-B4A7-516E4C37274D}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:22:07.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "CRUD\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:21:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDController.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Controllers\\CRUDController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\CRUDController.cs",
+              "ToolTip": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Controllers\\CRUDController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\CRUDController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:22:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Views\\CRUD\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\CRUD\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Views\\CRUD\\Create.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\CRUD\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:17:04.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\Employee.cs",
+              "ToolTip": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUD\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:12:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Generic\\Repository.cs",
+              "RelativeDocumentMoniker": "CRUD\\Generic\\Repository.cs",
+              "ToolTip": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Generic\\Repository.cs",
+              "RelativeToolTip": "CRUD\\Generic\\Repository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:08:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "CRUD\\Generic\\IRepository.cs",
+              "ToolTip": "D:\\Projects\\Dot Net\\CRUD\\CRUD\\Generic\\IRepository.cs",
+              "RelativeToolTip": "CRUD\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:08:01.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
